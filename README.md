@@ -1,0 +1,1 @@
+it generates a random number between 50 and 100, and the user has to guess it. The game provides feedback on whether the guess is too high, too low, or correct, and keeps track of the number of attempts.
